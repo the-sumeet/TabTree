@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Tab Graph",
+  "version": "1.0.0",
+  "description": "Visualize your browser tabs as a tree graph",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_title": "Tab Graph"
+  },
+  "icons": {
+    "16": "vite.svg",
+    "48": "vite.svg",
+    "128": "vite.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "tabgraph@example.com"
+    }
+  }
+}
