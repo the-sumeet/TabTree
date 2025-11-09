@@ -2,6 +2,8 @@
 
 A browser extension that visualizes your open tabs in a tree format, showing parent-child relationships.
 
+![TabTree Screenshot](public/screenshot.png)
+
 ## Features
 
 - Visualize tabs as a tree graph
