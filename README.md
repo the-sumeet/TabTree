@@ -4,6 +4,10 @@ A browser extension that visualizes your open tabs in a tree format, showing par
 
 ![TabTree Screenshot](public/screenshot.png)
 
+## Download
+
+[Chrome](https://chromewebstore.google.com/detail/tab-tree/nhcanjcmbhplkkmjadhckffjjjnhgljj)
+
 ## Features
 
 - Visualize tabs as a tree graph
