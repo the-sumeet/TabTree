@@ -1,4 +1,4 @@
-# Tab Graph Browser Extension
+# TabTree
 
 A browser extension that visualizes your open tabs in a tree format, showing parent-child relationships.
 
