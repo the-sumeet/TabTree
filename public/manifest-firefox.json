@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Tab Graph",
+  "name": "Tab Tree",
   "version": "1.0.0",
   "description": "Visualize your browser tabs as a tree graph",
   "permissions": [
@@ -11,16 +11,19 @@
     "scripts": ["background.js"]
   },
   "browser_action": {
-    "default_title": "Tab Graph"
+    "default_title": "Tab Tree"
   },
   "icons": {
-    "16": "vite.svg",
-    "48": "vite.svg",
-    "128": "vite.svg"
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "tabgraph@example.com"
+      "id": "tabtree@example.com",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   }
 }

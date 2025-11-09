@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Tab Graph",
+  "name": "Tab Tree",
   "version": "1.0.0",
   "description": "Visualize your browser tabs as a tree graph",
   "permissions": [
@@ -12,11 +12,11 @@
     "type": "module"
   },
   "action": {
-    "default_title": "Tab Graph"
+    "default_title": "Tab Tree"
   },
   "icons": {
-    "16": "vite.svg",
-    "48": "vite.svg",
-    "128": "vite.svg"
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
   }
 }

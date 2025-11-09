@@ -228,7 +228,7 @@
 <div class="h-screen flex flex-col">
   <Card.Root class="flex-1 flex flex-col h-full rounded-none pb-0">
     <Card.Header>
-      <Card.Title>TabGraph</Card.Title>
+      <Card.Title>Tab Tree</Card.Title>
       <Card.Description>Visualize your browser tabs as a tree</Card.Description>
       <Card.Action>
         <button
